@@ -1,7 +1,7 @@
 {
   "Amazon - Cyber Security programme page": {
     "open": false,
-    "hash": "d5823ca4adf02fa71329a40b2629d9f167665f8c3a4865a66941dd4d79896362",
+    "hash": "3a7aa8fa7005f13e2b3f59c25495139d9ab042b2f24923865e1236fd7c0cc80d",
     "error": null,
     "snippet": ""
   },
@@ -12,15 +12,16 @@
     "snippet": ""
   },
   "amazon.jobs - Cyber apprentice (UK)": {
-    "open": false,
-    "hash": "27852f38546a951a6ccb4ba868a977499c0bb9b446608e4a0ce83be9455f9815",
+    "open": true,
+    "hash": "eedf5ee5eb00c2ac64646c5d0bc5b023ceb5e0f18ff92002005e6b65dd6ecbd8",
     "error": null,
-    "snippet": "...{\"error\":null,\"hits\":0,\"facets\":{},\"content\":{\"sidebar\":{},\"search_results..."
+    "snippet": "...{\"error\":null,\"hits\":2,\"facets\":{},\"content\":{\"sidebar\":{},\"search_results..."
   },
   "gov.uk cyber apprenticeships (alerts on any NEW listing)": {
     "ids": {
       "VAC2000057383": "2027 Cloud Assurance and Cyber Security Apprentice - Crawley",
       "VAC2000060853": "Cyber Security Apprentice (Quantock Education Trust)",
+      "VAC2000062919": "Cyber Security Technician Apprentice",
       "VAC2000062893": "IT & Cyber Operations Apprentice"
     },
     "error": null

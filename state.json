@@ -13,7 +13,7 @@
   },
   "amazon.jobs - Cyber apprentice (UK)": {
     "open": true,
-    "hash": "da39f21e28ea5ba3040c147bca5d8fe046f0c0845965c73542d6d6bf1eb24590",
+    "hash": "7976ce5fca8b25849bf1fcc7dfb26b00af4aedbc266ec3a2d8d04e95fe9bc0c0",
     "error": null,
     "snippet": "...{\"error\":null,\"hits\":2,\"facets\":{},\"content\":{\"sidebar\":{},\"search_results..."
   },
@@ -23,7 +23,6 @@
       "VAC2000063307": "Cyber Security Apprentice (Fixed Term Contract)",
       "VAC2000063310": "Cyber Security Apprentice (Fixed Term Contract)",
       "VAC2000060853": "Cyber Security Apprentice (Quantock Education Trust)",
-      "VAC2000062919": "Cyber Security Technician Apprentice",
       "VAC2000062893": "IT & Cyber Operations Apprentice"
     },
     "error": null

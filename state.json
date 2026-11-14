@@ -13,14 +13,13 @@
   },
   "amazon.jobs - Cyber apprentice (UK)": {
     "open": true,
-    "hash": "d6e3b86d385a5b164d7b699f7db8871bf28ec61a5439d426298b593748f257df",
+    "hash": "c7ae9c88257deaa212331452dc6ffabee2128b5d9ace202c49f9b4cb1e6b65a3",
     "error": null,
     "snippet": "...{\"error\":null,\"hits\":2,\"facets\":{},\"content\":{\"sidebar\":{},\"search_results..."
   },
   "gov.uk cyber apprenticeships (alerts on any NEW listing)": {
     "ids": {
       "VAC2000057383": "2027 Cloud Assurance and Cyber Security Apprentice - Crawley",
-      "VAC2000063947": "Cyber Security & Digital Solutions - Degree Apprenticeship",
       "VAC2000063307": "Cyber Security Apprentice (Fixed Term Contract)",
       "VAC2000063310": "Cyber Security Apprentice (Fixed Term Contract)",
       "VAC2000060853": "Cyber Security Apprentice (Quantock Education Trust)",

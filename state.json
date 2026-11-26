@@ -13,13 +13,15 @@
   },
   "amazon.jobs - Cyber apprentice (UK)": {
     "open": true,
-    "hash": "86fce58b641cc1f10c4439bcf1928af7edde793d035d8684fcd85f24089ceaf5",
+    "hash": "0c89b59a636a776015942b3b315040e15247511f10891453cce97a558bf78948",
     "error": null,
     "snippet": "...{\"error\":null,\"hits\":2,\"facets\":{},\"content\":{\"sidebar\":{},\"search_results..."
   },
   "gov.uk cyber apprenticeships (alerts on any NEW listing)": {
     "ids": {
       "VAC2000057383": "2027 Cloud Assurance and Cyber Security Apprentice - Crawley",
+      "VAC2000065742": "Cyber Security Apprentice",
+      "VAC2000065865": "Digital and Technology Solutions Degree Apprenticeship - Cyber Security Pathway",
       "VAC2000062893": "IT & Cyber Operations Apprentice"
     },
     "error": null

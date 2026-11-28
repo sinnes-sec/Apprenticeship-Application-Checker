@@ -7,15 +7,15 @@
   },
   "Civil Service - Govt Security Cyber Degree (Level 6)": {
     "open": false,
-    "hash": "",
-    "error": "403 Client Error: Forbidden for url: https://www.civil-service-careers.gov.uk/government-security-cyber-degree-apprenticeship-level-6/",
+    "hash": "83cde8599c2290619181559ca9df1551b591cd1dc7be1e59cfbd122d7c9993ba",
+    "error": null,
     "snippet": ""
   },
   "amazon.jobs - Cyber apprentice (UK)": {
     "open": true,
-    "hash": "6aa9221b580c030d0156a9b020eb4a0136af9123197be4737c9c4c4fa8b0afec",
+    "hash": "d2ed4365a1d9a4a9ebd993f3359040a92472c6b07461f678b898f9fc78cd1d09",
     "error": null,
-    "snippet": "...{\"error\":null,\"hits\":2,\"facets\":{},\"content\":{\"sidebar\":{},\"search_results..."
+    "snippet": "...{\"error\":null,\"hits\":1,\"facets\":{},\"content\":{\"sidebar\":{},\"search_results..."
   },
   "gov.uk cyber apprenticeships (alerts on any NEW listing)": {
     "ids": {
